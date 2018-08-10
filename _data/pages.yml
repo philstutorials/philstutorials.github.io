@@ -1,8 +1,5 @@
 docs_list_title: Courses
 docs:
 
-- title: home
-  url: index.html
-
-- title: anotherpage
+- title: CPSC 231
   url: another-page.html
