@@ -31,6 +31,12 @@
         </section>
 
         <aside id="sidebar">
+          <h2>{{ site.data.samplelist.docs_list_title }}</h2>
+          <ul>
+            {% for item in site.data.samplelist.docs %}
+               <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+            {% endfor %}
+          </ul>
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="button">
               <small>Download</small>
