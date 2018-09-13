@@ -29,3 +29,8 @@ When you're writing your own code in a jupyter notebook it's useful to develop y
 This strategy is motivated by the fact that information returned from a google search may be out of date.
 In other words the version of software (python, anaconda, or the python related libraries) **you're** using is different than the version **they're** using at the time that generous stranger posted an answer in a Q&A community.
 The details of parameters may be different in your version or some functions may be depreciated in your version and the developers of the language/libraries may have created a completely new way to do what you want that's simpler but wasn't available before.
+
+For your first assignment the relevent documentation would be python and matplotlib:
+*[Python 3.6 Documentation (see tutorial, library reference, language reference)](https://docs.python.org/3.6/index.html)
+*[Matplotlib](https://matplotlib.org/contents.html)
+
