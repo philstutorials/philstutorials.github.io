@@ -6,7 +6,7 @@ layout: default
 
 Drop-in help: Friday: 5:00pm-7:00pm (ICT 517)
 
-## Some considerations on looking up available operations, their names, and parameters
+## Some considerations about looking up available operations, their names, and parameters
 
 When you're writing your own code in a jupyter notebook it's useful to develop your own heuristic for looking things up. From my experience I would start with a strategy something like this:
 
