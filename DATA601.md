@@ -32,5 +32,5 @@ The details of parameters may be different in your version or some functions may
 
 For your first assignment you only need to refer to the python and matplotlib documentation:
 * [Python 3.6.6 Documentation (see Tutorial, Library Reference, and Language Reference)](https://docs.python.org/3.6/index.html)
-* [Matplotlib 2.2.3 (see tutorial User's Guide>Tutorials and The Matplotlib API)](https://matplotlib.org/contents.html)
+* [Matplotlib 2.2.3 (see User's Guide>Tutorials and The Matplotlib API)](https://matplotlib.org/contents.html)
 
