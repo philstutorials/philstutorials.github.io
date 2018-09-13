@@ -23,7 +23,7 @@ When you're writing your own code in a jupyter notebook it's useful to develop y
  > `?data.function_name <CTRL>+<ENTER>` in your jupyter notebook or go to the documentation's reference page.
 
 5. When you **want to remind yourself** of the available operations on a particular data structure:
-  > `data_structure. <TAB>`.
+  > `object. <TAB>`.
 
  
 This strategy is motivated by the fact that information returned from a google search may be out of date (e.g. not your version of python, anaconda, or the python related libraries).
