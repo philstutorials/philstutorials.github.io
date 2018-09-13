@@ -11,7 +11,7 @@ Drop-in help: Friday: 5:00pm-7:00pm (ICT 517)
 When you're writing your own code in a jupyter notebook it's useful to develop your own heuristic for looking things up. From my experience I would start with a strategy something like this:
 
 1. When you have **no idea** if you're looking for functionality provided by the python language or a part of some library:
- > Google your vague questions, use the information you gather in 2, 3, 4, or 5.
+ > Google your vague questions then go to 2, 3, 4, or 5.
 
 2. When you **know who provides** the functionality you're looking for (e.g.  python, matplotlib, pandas, etc) but you don't really know what it would be:
  > Skim the tutorial in the documentation.
