@@ -2,7 +2,7 @@ docs_list_title: Courses
 docs:
 
 - title: CPSC 359 (F2018)
-  url: CPSC359.html
+  url: _data/CPSC359.html
 
 - title: DATA 601 (F2018)
   url: DATA601.html
