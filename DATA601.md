@@ -30,7 +30,7 @@ This strategy is motivated by the fact that information returned from a google s
 In other words the version of software (python, anaconda, or the python related libraries) **you're** using is different than the version **they're** using at the time that generous stranger posted an answer in a Q&A community (e.g. stackoverflow).
 The details of parameters may be different in your version or some functions may be depreciated in your version and the developers of the language/libraries may have created a completely new way to do what you want that's simpler but wasn't available before.
 
-If you followed the anaconda installation instructions provided on D2L, for your first assignment, you only need to refer to the *latest* python and matplotlib documentation:
+If you recently followed the anaconda installation instructions provided on D2L, for your first assignment, you only need to refer to the *latest* python and matplotlib documentation:
 * [Python 3.6.6 Documentation (see Tutorial, Library Reference, and Language Reference)](https://docs.python.org/3.6/index.html)
 * [Matplotlib 2.2.3 (see User's Guide>Tutorials and The Matplotlib API)](https://matplotlib.org/contents.html)
 
