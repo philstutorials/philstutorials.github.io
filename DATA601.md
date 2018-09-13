@@ -31,6 +31,6 @@ In other words the version of software (python, anaconda, or the python related 
 The details of parameters may be different in your version or some functions may be depreciated in your version and the developers of the language/libraries may have created a completely new way to do what you want that's simpler but wasn't available before.
 
 For your first assignment the relevent documentation would be python and matplotlib:
-*[Python 3.6 Documentation (see tutorial, library reference, language reference)](https://docs.python.org/3.6/index.html)
-*[Matplotlib](https://matplotlib.org/contents.html)
+* [Python 3.6 Documentation (see tutorial, library reference, language reference)](https://docs.python.org/3.6/index.html)
+* [Matplotlib](https://matplotlib.org/contents.html)
 
