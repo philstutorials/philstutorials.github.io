@@ -20,7 +20,7 @@ When you're writing your own code in a jupyter notebook it's useful to develop y
  > Go to the documentation's tutorial or reference.
 
 4. When you **know the name** of a function but can't remember the parameters:
- > `?data.function_name <CTRL>+<ENTER>` in your jupyter notebook or go to the documentation's reference page.
+ > `?data_object.function_name <CTRL>+<ENTER>` in your jupyter notebook or go to the documentation's reference page.
 
 5. When you **want to remind yourself** of the available operations on a particular data structure:
   > `object. <TAB>`.
