@@ -7,7 +7,7 @@ layout: default
 Tutorials: Tuesday, Thursday: 12:00pm-12:50pm (MS 252)
 
 
-### September 18th, 20th:
+### September 18th and 20th:
 This week we'll practice what you learned in last week's lectures. That means we will:
 
 - Practice translating between three different representations of boolean functions, i.e.,
