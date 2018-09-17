@@ -8,6 +8,8 @@ Tutorials: Tuesday, Thursday: 12:00pm-12:50pm (MS 252)
 
 
 ### Week 1 Plan:
+This week we'll practice what you learnt in last weeks lectures. That means we will:
+
 - Practice translating between three different representations of boolean functions, i.e.,
  > algebra <> truth tables <> logic diagrams.
 
