@@ -7,13 +7,13 @@ layout: default
 Tutorials: Tuesday, Thursday: 12:00pm-12:50pm (MS 252)
 
 
-### Week 1
+### Week 1 Plan:
+- Practice translating between three different representations of boolean functions, i.e., algebra <> truth tables <> logic diagrams.
 
-The entries in this table are a combination of axioms and derived theorems useful for digital logic.
-Commiting these rules to memory is useful.
+- Practice minimizing the number of literals and terms in boolean functions using a few axioms and theorems of boolean algebra.
 
-| Name      | Rule | Dual |
-| ----------- | ----------- | ----------- |
-| identity element       | x + 0 = x       | x*1 = x |
-| Paragraph   | Text        | cccc |
+- Practice finding the complements of boolean functions using two methods, i.e.,
+  * by application of a few axioms and theorems, and
+  * by the "shortcut method" (find the dual and complement each literal).
 
+Please bring pencil and paper to work on practice problems.
