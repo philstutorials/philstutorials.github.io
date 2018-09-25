@@ -20,3 +20,9 @@ This week we'll practice what you learned in last week's lectures. That means we
   * by the "shortcut method" (find the dual and complement each literal).
 
 Please bring pencil and paper to work on practice problems.
+
+### September 25th and 27th:
+On Tuesday we will:
+- Practice minimixing three and four variable Boolean functions using the map method.
+On Thursday we will:
+- Become familiar with the Logisim application.
