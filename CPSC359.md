@@ -27,3 +27,10 @@ On Tuesday we will:
 
 On Thursday we will:
 - Become familiar with the Logisim application.
+
+### October 2nd and 4th:
+On Tuesday we will:
+- Apply the design process to a simple example.
+
+On Thursday we will:
+- Finish our assignments.
