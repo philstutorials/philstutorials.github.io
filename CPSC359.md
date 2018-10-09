@@ -34,4 +34,4 @@ On Thursday we will finish our assignments.
 ### October 9th and 11th:
 On Tuesday we will build various latches in Logisim.
 
-On Thursday we will build various flip flops in Logisim.
+On Thursday we will create various flip flops.
