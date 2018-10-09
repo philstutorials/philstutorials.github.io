@@ -34,3 +34,15 @@ If you recently followed the anaconda installation instructions provided on D2L,
 * [Python 3.6.6 Documentation (see Tutorial, Library Reference, and Language Reference)](https://docs.python.org/3.6/index.html)
 * [Matplotlib 2.2.3 (see User's Guide>Tutorials and The Matplotlib API)](https://matplotlib.org/contents.html)
 
+
+## All cells share a 'global' set of function definitions, default and imported libraries, and defineed variables.
+These things are not local to the cell; *there's no need to repeat library imports, function definitions, or global variable definitions each time you use them in different cells.*
+
+## Printing values is not the same as returning a value in a function definition.
+It's true that they can act similarly in the context of a jupyter notebook, i.e., they can both appear as printed output of a cell. That said, having a function return a value is a crucial step in setting up a function to be reused in arbitrary ways in the rest of your code. For example, suppose your function f1 returned the value 3 and f2 returned 2. Then in a seperate cell, executing print(f1()**f2()) would be calling print(3**2). This would not be possible if f1 and f2 printed their values instead of returned them.
+
+## For readability and reuse of your own functions it's important to limit the number of global variables that your functions use.
+The use of global variables create dependencies. Dependencies increase the complexity of reasoning about your code. Also the value of the global variables, at the time that you call your defined function in late code, might not be what you thought it was so your computation might be incorrect! This is the reason functions take arguments and return values.
+
+
+## Use one tabs or 4 spaces for each level of indentation
