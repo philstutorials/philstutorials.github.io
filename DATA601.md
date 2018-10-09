@@ -34,7 +34,7 @@ If you recently followed the anaconda installation instructions provided on D2L,
 * [Python 3.6.6 Documentation (see Tutorial, Library Reference, and Language Reference)](https://docs.python.org/3.6/index.html)
 * [Matplotlib 2.2.3 (see User's Guide>Tutorials and The Matplotlib API)](https://matplotlib.org/contents.html)
 
-
+----
 ## All cells share a 'global' set of function definitions, default and imported libraries, and defineed variables.
 These things are not local to the cell; *there's no need to repeat library imports, function definitions, or global variable definitions each time you use them in different cells.*
 
