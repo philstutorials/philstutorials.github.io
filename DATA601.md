@@ -45,4 +45,4 @@ It's true that they can act similarly in the context of a jupyter notebook, i.e.
 The use of global variables create dependencies. Dependencies increase the complexity of reasoning about your code. Also the value of the global variables, at the time that you call your defined function in late code, might not be what you thought it was so your computation might be incorrect! This is the reason functions take arguments and return values.
 
 
-## Use one tabs or 4 spaces for each level of indentation
+## Use one tabs or 4 spaces for each level of indentation.
