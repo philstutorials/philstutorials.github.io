@@ -22,15 +22,16 @@ This week we'll practice what you learned in last week's lectures. That means we
 Please bring pencil and paper to work on practice problems.
 
 ### September 25th and 27th:
-On Tuesday we will:
-- Practice minimixing three and four variable Boolean functions using the map method.
+On Tuesday we will practice minimixing three and four variable Boolean functions using the map method.
 
-On Thursday we will:
-- Become familiar with the Logisim application.
+On Thursday we will become familiar with the Logisim application.
 
 ### October 2nd and 4th:
-On Tuesday we will:
-- Apply the design process to a simple example.
+On Tuesday we will apply the design process to a simple example.
 
-On Thursday we will:
-- Finish our assignments.
+On Thursday we will finish our assignments.
+
+### October 9th and 11th:
+On Tuesday we will build various latches in Logisim.
+
+On Thursday we will build various flip flops in Logisim.
