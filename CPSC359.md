@@ -35,3 +35,8 @@ On Thursday we will finish our assignments.
 On Tuesday we will build various latches in Logisim.
 
 On Thursday we will create various flip-flops.
+
+### October 16th and 18th:
+On Tuesday we will analyse a sequential circuit.
+
+On Thursday we will design and implement a sequential circuit.
