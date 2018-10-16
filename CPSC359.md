@@ -37,7 +37,7 @@ On Tuesday we will build various latches in Logisim.
 On Thursday we will create various flip-flops.
 
 ### October 16th and 18th:
-On Tuesday we will analyze a [sequential circuit](https://philstutorials.space/_data/analyze_this.circ "Logisim file download")
+On Tuesday we will analyze a [sequential circuit](https://philstutorial.space/_data/analyze_this.circ "Logisim file download")
 .
 
 On Thursday we will design and implement a sequential circuit.
