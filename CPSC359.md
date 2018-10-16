@@ -39,7 +39,6 @@ ___
 ### October 16th and 18th:
 On Tuesday we will analyze a clocked sequential circuit.
 
-
-**Materials:** Using a principled analysis process we discovered that the [sequential circuit](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/analyze_this.circ "Logisim file, Save to your computer") outputs 1 after it's seen 4+, consecutive, inputs of 1.
+> Using a principled analysis process we discovered that the [sequential circuit](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/analyze_this.circ "Logisim file, Save to your computer") outputs 1 after it's seen 4+, consecutive, inputs of 1.
 
 On Thursday we will design and implement a sequential circuit.
