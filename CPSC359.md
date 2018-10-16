@@ -37,7 +37,7 @@ On Tuesday we will build various latches in Logisim.
 On Thursday we will create various flip-flops.
 
 ### October 16th and 18th:
-On Tuesday we will analyze a [sequential circuit](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/analyze_this.circ "Logisim file download"). Using a principled analysis process we discovered that the circuit outputs 1 after it's seen a 4 consecutive inputs of 1.
+On Tuesday we will analyze a [sequential circuit](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/analyze_this.circ "Logisim file download"). **Update:** Using a principled analysis process we discovered that the circuit outputs 1 after it's seen 4+, consecutive, inputs of 1.
 .
 
 On Thursday we will design and implement a sequential circuit.
