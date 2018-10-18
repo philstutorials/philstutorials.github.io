@@ -49,4 +49,4 @@ On Tuesday we will analyze a clocked sequential circuit.
 
 > Using a principled analysis process we discovered that the [sequential circuit](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/analyze_this.circ "Logisim file. Save this to your computer.") outputs 1 after it's seen 4+, consecutive, inputs of 1.
 
-On Thursday we will design and implement a sequential circuit. Use this [logisim file](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/build_counter.circ "Logisim file. Save this to your computer.") to contruct the circuit and see it in action.
+On Thursday we will design and implement a sequential circuit. Contruct the circuit inside this [logisim file](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/build_counter.circ "Logisim file. Save this to your computer.") to see it in action.
