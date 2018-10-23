@@ -56,4 +56,6 @@ On Thursday we will design and implement a sequential circuit as well as simplif
 ### October 23rd and 25th:
 On Tuesday we will simplify a 5-variable boolean function and finish the design and implementation of a 2-bit counter circuit.
 
+> Here's a [link](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/simple_counter_split.circ "Logisim file. Save this to your computer.") to my modularly constructed circuit connected to my fancy terminal.
+
 On Thursday we will finish our assignments.
