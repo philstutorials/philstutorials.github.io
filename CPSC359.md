@@ -59,3 +59,9 @@ On Tuesday we will simplify a 5-variable boolean function and finish the design 
 > Here's a [link](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/simple_counter_split.circ "Logisim file. Save this to your computer.") to my modularly constructed circuit connected to my fancy terminal.
 
 On Thursday we will finish our assignments.
+> If you want to test your assignment solution with a fancy terminal then do the follow:
+1. load [this file](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/HW2_tester_lib.circ "Logisim file. Save this to your computer.") as a Logisim library in your own circuit file
+2. copy the contents of main circuit in the HW2_tester_lib library in your own main circuit.
+3. attach inputs, outputs, and clocks.
+4. set tick frequency to 4Hz and enable ticks, play with enable and direction input.
+
