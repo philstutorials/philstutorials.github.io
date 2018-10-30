@@ -65,3 +65,7 @@ If you want to test your assignment solution with a fancy terminal then do the f
 3. attach inputs, outputs, and clocks.
 4. set tick frequency to 4Hz and enable ticks, play with enable and direction input.
 
+----
+
+### October 30th and November 1st:
+On Tuesday play with our dessert.
