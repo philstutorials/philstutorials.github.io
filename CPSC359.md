@@ -68,4 +68,8 @@ If you want to test your assignment solution with a fancy terminal then do the f
 ----
 
 ### October 30th and November 1st:
-On Tuesday play with our dessert.
+On Tuesday we play with our dessert.
+
+On Thursday we will compile an example program for the Pi. This program uses the mini UART pins.
+
+> [Slides here](https://slides.com/pathomas/cross-compilation#/)
