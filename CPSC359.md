@@ -76,7 +76,7 @@ On Thursday we will compile an example program for the Pi. This program uses the
 
 ----
 
-### November 6th and November 8st:
+### November 6th and November 8th:
 Tuesday is hands on; we're programming LED lights connected to your Pi.
 > [Slides here](https://slides.com/pathomas/gpio-programming#/)
 
