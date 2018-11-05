@@ -73,3 +73,13 @@ On Tuesday we play with our dessert.
 On Thursday we will compile an example program for the Pi. This program uses the mini UART pins.
 
 > [Slides here](https://slides.com/pathomas/cross-compilation#/)
+
+----
+
+### November 6th and November 8st:
+Tuesday is hands on; we're programming LED lights connected to your Pi.
+> [Slides here](https://slides.com/pathomas/gpio-programming#/)
+
+On Thursday we will build on what we did on Tuesday. We'll write a programs to make buttons control the LED lights.
+
+
