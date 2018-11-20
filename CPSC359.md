@@ -83,4 +83,10 @@ Tuesday is hands on; we're programming LED lights connected to your Pi.
 On Thursday we will build on what we did on Tuesday. We'll write a programs to make buttons control the LED lights.
 > [Slides](https://slides.com/pathomas/gpio-programming-button)
 
+### November 20th and November 22th:
+Tuesday we'll dissect an example of interrupt driven programming.
+> [Slides](https://slides.com/pathomas/gpio-programming-interrupts#/)
+
+On Thursday finish your assignment and ask for help if you're lost.
+
 
