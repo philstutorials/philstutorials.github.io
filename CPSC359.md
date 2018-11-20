@@ -84,7 +84,8 @@ On Thursday we will build on what we did on Tuesday. We'll write a programs to m
 > [Slides](https://slides.com/pathomas/gpio-programming-button)
 
 ### November 20th and November 22th:
-Tuesday we'll dissect an example of interrupt driven programming.
+Tuesday we'll analyze an example of interrupt driven programming, extend it, and hopefully review the steps
+to complete your assignment.
 > [Slides](https://slides.com/pathomas/gpio-programming-interrupts#/)
 
 On Thursday finish your assignment and ask for help if you're lost.
