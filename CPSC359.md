@@ -94,4 +94,4 @@ On Thursday finish your assignment and ask for help if you're lost.
 Tuesday I'll verify that the code you submitted to D2L satisfies the assignment criteria. First come first serve. You can leave when you've done your demo.
 
 On Thursday we'll see how to program the SNES controller.
-> [Slides](https://slides.com/pathomas/gpio-programming-snes#/)
+> [Slides](https://slides.com/pathomas/gpio-programming-snes#/) and [Example w/ modifications](https://github.com/philstutorials/philstutorials.github.io/raw/master/_data/07_SNESController_Ext.zip)
