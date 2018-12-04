@@ -99,4 +99,5 @@ On Thursday we'll see how to program the SNES controller.
 ### December 4th and December 6th:
 Tuesday we'll look at framebuffer programming.
 > [Slides](https://slides.com/pathomas/frame-buffers#/)
+
 On Thursday finish your assignment and ask for help if you're lost.
