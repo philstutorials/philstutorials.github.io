@@ -101,3 +101,6 @@ Tuesday we'll look at framebuffer programming.
 > [Slides](https://slides.com/pathomas/frame-buffers#/) and [example w/ animation mod](https://github.com/philstutorials/philstutorials.github.io/raw/master/_data/09_FrameBuffer_Animation.zip)
 
 On Thursday finish your assignment and ask for help if you're lost.
+
+### THANKS FOR BEING GOOD STUDENTS
+### GOOD LUCK ON FINALS FOLKS!
