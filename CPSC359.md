@@ -94,10 +94,10 @@ On Thursday finish your assignment and ask for help if you're lost.
 Tuesday I'll verify that the code you submitted to D2L satisfies the assignment criteria. First come first serve. You can leave when you've done your demo.
 
 On Thursday we'll see how to program the SNES controller.
-> [Slides](https://slides.com/pathomas/gpio-programming-snes#/) and [Example w/ modifications](https://github.com/philstutorials/philstutorials.github.io/raw/master/_data/07_SNESController_Ext.zip)
+> [Slides](https://slides.com/pathomas/gpio-programming-snes#/) and [example w/ modifications](https://github.com/philstutorials/philstutorials.github.io/raw/master/_data/07_SNESController_Ext.zip)
 
 ### December 4th and December 6th:
 Tuesday we'll look at framebuffer programming.
-> [Slides](https://slides.com/pathomas/frame-buffers#/)
+> [Slides](https://slides.com/pathomas/frame-buffers#/) and [example w/ animation mod](https://github.com/philstutorials/philstutorials.github.io/raw/master/_data/09_FrameBuffer_Animate.zip)
 
 On Thursday finish your assignment and ask for help if you're lost.
