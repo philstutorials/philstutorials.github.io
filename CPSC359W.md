@@ -15,7 +15,7 @@ Tutorials:
 This week we'll practice what you learned in last week's lectures. That means we will:
 
 - Practice translating between three different representations of boolean functions, i.e.,
- > logic diagrams <--> algebraic expression <--> truth tables.
+ > logic (circuit) diagrams <--> algebraic expressions <--> truth tables.
 
 - Practice minimizing the number of literals and terms in boolean functions using axioms and theorems of boolean algebra.
 
