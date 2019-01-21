@@ -4,11 +4,14 @@ layout: default
 
 # CPSC 359: Computing Machinery II (Winter 2019)
 
-Tutorials: Monday, Wednesday: 11:00am-11:50am (MS 252)
+Tutorials:
+Monday, Wednesday: 11:00am-11:50am (MS 252) **T04**
+Tuesday, Thursday: 11:00am-11:50am (MS 252) **T03**
+
 
 ----
 
-### January 21st and 23rd:
+### Week of January 21st:
 This week we'll practice what you learned in last week's lectures. That means we will:
 
 - Practice translating between three different representations of boolean functions, i.e.,
