@@ -27,4 +27,4 @@ Please bring pencil and paper to work on practice problems.
 
 Here are all the maths you need to know for digital logic.
 
-![complex mathematics](https://github.com/philstutorials/philstutorials.github.io/raw/master/_data/postulates_theorems.png "complex mathematics")
+![complex mathematics](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/postulates_theorems.png "complex mathematics")
