@@ -5,7 +5,7 @@ layout: default
 # CPSC 359: Computing Machinery II (Winter 2019)
 
 Tutorials:  
-**T04** - Monday, Wednesday: 11:00am-11:50am (MS 252) 
+**T04** - Monday, Wednesday: 11:00am-11:50am (MS 252)  
 **T03** - Tuesday, Thursday: 11:00am-11:50am (MS 252)
 
 
