@@ -32,3 +32,9 @@ Here is are all the maths you need to know for digital logic.
 This is what minterms and maxterms are:
 
 ![min_max_terms](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/minmaxterms.png "more notation")
+
+### Week of January 28st:
+This is what Karnaugh maps look like..
+
+![kmaps_2v](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap2.png "map method 2")
+![kmaps_3v](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap3.png "map method 3")
