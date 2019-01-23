@@ -25,6 +25,10 @@ This week we'll practice what you learned in last week's lectures. That means we
 
 Please bring pencil and paper to work on practice problems.
 
-Here are all the maths you need to know for digital logic.
+Here is are all the maths you need to know for digital logic.
 
 ![complex mathematics](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/postulates_theorems.png "complex mathematics")
+
+This is what minterms and maxterms are:
+
+![min_max_terms](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/minmaxterms.png "more notation")
