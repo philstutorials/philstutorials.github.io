@@ -30,8 +30,7 @@ Here is are all the maths you need to know for digital logic.
 ![complex mathematics](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/postulates_theorems.png "complex mathematics")
 
 This is what minterms and maxterms are:
-
-![min_max_terms](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/minmaxterms.png "more notation")
+ <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/minmaxterms.png " width="400"/>
 
 ### Week of January 28st:
 During the first tutorial we will practice minimizing three and four variable Boolean functions using the map method.
