@@ -28,7 +28,7 @@ Please bring pencil and paper to work on practice problems.
 Here is are all the maths you need to know for digital logic.
 
 <center>
-<img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/postulates_theorems.png " width="450"/>
+<img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/postulates_theorems1.png " width="450"/>
 </center>
 
 This is what minterms and maxterms are:
