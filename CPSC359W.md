@@ -43,3 +43,8 @@ This is what Karnaugh maps look like..
 ![kmaps_2v](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap2.png "map method 2")
 ![kmaps_3v](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap3.png "map method 3")
 ![kmaps_4v](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap4.png "map method 4")
+
+<div>
+  <img src="http://lorempixel.com/200/200/"/>
+  <img src="http://lorempixel.com/200/200/"/>
+</div>
