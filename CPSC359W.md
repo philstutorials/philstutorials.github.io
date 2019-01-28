@@ -27,11 +27,14 @@ Please bring pencil and paper to work on practice problems.
 
 Here is are all the maths you need to know for digital logic.
 
+<center>
 <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/postulates_theorems.png " width="450"/>
+</center>
 
 This is what minterms and maxterms are:
-<center>dddd
-<img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/minmaxterms.png " width="450"/></center>
+<center>
+<img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/minmaxterms.png " width="450"/>
+</center>
 
 ### Week of January 28st:
 During the first tutorial we will practice minimizing three and four variable Boolean functions using the map method.
@@ -40,8 +43,10 @@ The second tutorial is dedicated to familiarizing ourselves with Logisim. Your f
 
 This is what Karnaugh maps look like..
 
+<center>
 <div>
  <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap2.png " width="450"/>
  <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap3.png " width="450"/>
  <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap4.png " width="450"/>
 </div>
+ <center>
