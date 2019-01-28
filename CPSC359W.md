@@ -26,10 +26,11 @@ This week we'll practice what you learned in last week's lectures. That means we
 Please bring pencil and paper to work on practice problems.
 
 Here is are all the maths you need to know for digital logic.
+
 <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/postulates_theorems.png " width="450"/>
 
 This is what minterms and maxterms are:
-<center>
+<center>dddd
 <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/minmaxterms.png " width="450"/></center>
 
 ### Week of January 28st:
