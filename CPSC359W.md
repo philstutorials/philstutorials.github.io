@@ -35,10 +35,10 @@ This is what minterms and maxterms are:
 
 ### Week of January 28st:
 During the first tutorial we will practice minimizing three and four variable Boolean functions using the map method.
+The second tutorial is about becoming familiar with the Logisim application. Your first two assignments will use this.
 
 This is what Karnaugh maps look like..
 
 ![kmaps_2v](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap2.png "map method 2")
 ![kmaps_3v](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap3.png "map method 3")
-
-The second tutorial is about becoming familiar with the Logisim application. Your first two assignments will use this.
+![kmaps_4v](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap4.png "map method 4")
