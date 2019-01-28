@@ -28,12 +28,12 @@ Please bring pencil and paper to work on practice problems.
 Here is are all the maths you need to know for digital logic.
 
 <center>
-<img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/postulates_theorems1.png " width="500"/>
+<img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/postulates_theorems1.png " width="550"/>
 </center>
 
 This is what minterms and maxterms are:
 <center>
-<img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/minmaxterms1.png " width="500"/>
+<img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/minmaxterms1.png " width="550"/>
 </center>
 
 ### Week of January 28st:
