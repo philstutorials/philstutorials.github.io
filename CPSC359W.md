@@ -35,7 +35,8 @@ This is what minterms and maxterms are:
 
 ### Week of January 28st:
 During the first tutorial we will practice minimizing three and four variable Boolean functions using the map method.
-The second tutorial is about becoming familiar with the Logisim application. Your first two assignments will use this.
+
+The second tutorial is dedicated to familiarizing ourselves with Logisim. Your first two assignments will require that you use this.
 
 This is what Karnaugh maps look like..
 
