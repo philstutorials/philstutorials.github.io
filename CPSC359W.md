@@ -26,9 +26,7 @@ This week we'll practice what you learned in last week's lectures. That means we
 Please bring pencil and paper to work on practice problems.
 
 Here is are all the maths you need to know for digital logic.
-<div style="display: block; margin: 0 auto;" >
 <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/postulates_theorems.png " width="450"/>
-</div>
 
 This is what minterms and maxterms are:
 
@@ -42,7 +40,7 @@ The second tutorial is dedicated to familiarizing ourselves with Logisim. Your f
 This is what Karnaugh maps look like..
 
 <div>
- <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap2.png " width="450"/>
- <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap3.png " width="450"/>
+ <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap2.png " width="250"/>
+ <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap3.png " width="250"/>
  <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap4.png " width="450"/>
 </div>
