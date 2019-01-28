@@ -27,11 +27,11 @@ Please bring pencil and paper to work on practice problems.
 
 Here is are all the maths you need to know for digital logic.
 
-![complex mathematics](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/postulates_theorems.png "complex mathematics")
+<img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/postulates_theorems.png " width="450"/>
 
 This is what minterms and maxterms are:
 
- <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/minmaxterms.png " width="400"/>
+ <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/minmaxterms.png " width="450"/>
 
 ### Week of January 28st:
 During the first tutorial we will practice minimizing three and four variable Boolean functions using the map method.
@@ -40,11 +40,8 @@ The second tutorial is dedicated to familiarizing ourselves with Logisim. Your f
 
 This is what Karnaugh maps look like..
 
-![kmaps_2v](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap2.png "map method 2")
-![kmaps_3v](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap3.png "map method 3")
-![kmaps_4v](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap4.png "map method 4")
-
 <div>
-  <img src="http://lorempixel.com/200/200/" width="48"/>
-  <img src="http://lorempixel.com/200/200/" width="48"/>
+ <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap2.png " width="450"/>
+ <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap3.png " width="450"/>
+ <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap4.png " width="450"/>
 </div>
