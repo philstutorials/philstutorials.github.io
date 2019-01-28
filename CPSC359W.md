@@ -47,6 +47,6 @@ This is what Karnaugh maps look like..
 <div>
  <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap2-1.png " width="350"/>
  <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap3-1.png " width="450"/>
- <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap4-1.png " width="500"/>
+ <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap4-1.png " width="550"/>
 </div>
  <center>
