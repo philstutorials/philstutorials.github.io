@@ -33,7 +33,7 @@ Here is are all the maths you need to know for digital logic.
 
 This is what minterms and maxterms are:
 <center>
-<img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/minmaxterms.png " width="450"/>
+<img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/minmaxterms1.png " width="450"/>
 </center>
 
 ### Week of January 28st:
@@ -46,7 +46,7 @@ This is what Karnaugh maps look like..
 <center>
 <div>
  <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap2-1.png " width="450"/>
- <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap3.png " width="450"/>
- <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap4.png " width="450"/>
+ <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap3-1.png " width="450"/>
+ <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap4-1.png " width="450"/>
 </div>
  <center>
