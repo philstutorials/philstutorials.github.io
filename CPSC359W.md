@@ -63,5 +63,5 @@ The first tutorial will be a comprehensive example of combination circuit design
 <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/codes.png " width="550"
 />
 </div>
-<center>
+</center>
 The second tutorial is a work period dedicated to you assignments. I'll be there roaming around and helping individually when I can.
