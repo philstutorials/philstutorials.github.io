@@ -51,7 +51,7 @@ This is what Karnaugh maps look like..
 </div>
  <center>
 
-### Week of February  4th
+### Week of February 4th:
 The first tutorial will be a comprehensive example of combination circuit design. It will parallel the steps needed in your assignment.
 <center>
 <div>
