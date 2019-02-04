@@ -36,6 +36,9 @@ This is what minterms and maxterms are:
 <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/minmaxterms1.png " width="550"/>
 </center>
 
+
+----
+
 ### Week of January 28th:
 During the first tutorial we will practice minimizing three and four variable Boolean functions using the map method.
 
@@ -50,6 +53,10 @@ This is what Karnaugh maps look like..
  <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap4-1.png " width="550"/>
 </div>
  <center>
+  
+
+  ----
+
 
 ### Week of February 4th:
 The first tutorial will be a comprehensive example of combination circuit design. It will parallel the steps needed in your assignment.
