@@ -53,6 +53,7 @@ This is what Karnaugh maps look like..
 
 ### Week of February  4th
 The first tutorial will be a comprehensive example of combination circuit design. It will parallel the steps needed in your assignment.
- <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/codes.png " width="550"/>
+ <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/codes.png " width="550"    style="margin: 5px 20px 20px;"
+/>
  
  The second tutorial is a work period dedicated to you assignments. I'll be there roaming around and helping individually when I can.
