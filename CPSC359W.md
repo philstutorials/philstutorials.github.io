@@ -52,7 +52,7 @@ This is what Karnaugh maps look like..
  <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap3-1.png " width="450"/>
  <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/kmap4-1.png " width="550"/>
 </div>
- <center>
+ </center>
   
 
   ----
