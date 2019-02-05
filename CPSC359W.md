@@ -64,6 +64,7 @@ The first tutorial will be a comprehensive example of combination circuit design
 />
 </div>
 </center>
+[Resulting circuit.](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/combinational_codes.circ "Logisim file. Save this to your computer.")
 
-[ey](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/combinational_codes.circ "Logisim file. Save this to your computer.")
+
 The second tutorial is a work period dedicated to your first assignment. I'll be there roaming around and helping where I can.
