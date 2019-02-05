@@ -64,4 +64,4 @@ The first tutorial will be a comprehensive example of combination circuit design
 />
 </div>
 </center>
-The second tutorial is a work period dedicated to you assignments. I'll be there roaming around and helping individually when I can.
+The second tutorial is a work period dedicated to your first assignment. I'll be there roaming around and helping where I can.
