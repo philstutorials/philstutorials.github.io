@@ -69,3 +69,8 @@ The first tutorial will be a comprehensive example of combination circuit design
 
 
 The second tutorial is a work period dedicated to your first assignment. I'll be there roaming around and helping where I can.
+
+----
+
+### Week of February 11th:
+This week we will flip-flop around logisim to build an understanding of memory primitives used in synchronous clocked circuits.
