@@ -85,4 +85,4 @@ The second tutorial will be a synthesis example:
  > two bit counter with a single enable input.  
  > A normal two bit counter cycles through outputing:
  > 00, 01, 10, 11.  
- > Try it first using D flip-flops. Then with JK flip-flops.
+ > Try it first using D flip-flops. Then try it again with JK flip-flops.
