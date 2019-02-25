@@ -75,5 +75,13 @@ The second tutorial is a work period dedicated to your first assignment. I'll be
 ### Week of February 11th:
 This week we will flip-flop around logisim to build an understanding of memory primitives used in synchronous clocked circuits.
 
+----
+
 ### Week of February 18th:
 The first tutorial is _probably_ a second pass at analysing [this sequential circuit](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/analyze_this.circ "Logisim file. Save this to your computer.").
+
+The second tutorial will be a synthesis example:
+ > Create a clocked synchronous sequential circuit that implements a _normal_
+ > two bit counter with a single enable input.
+ > A _normal_ two bit counter cycles through outputing:
+ > 00, 01, 10, 11
