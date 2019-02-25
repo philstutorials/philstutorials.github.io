@@ -78,7 +78,7 @@ This week we will flip-flop around logisim to build an understanding of memory p
 ----
 
 ### Week of February 18th:
-The first tutorial is _probably_ a second pass at analysing [this sequential circuit](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/analyze_this.circ "Logisim file. Save this to your computer.").
+The first tutorial is concluding the analysis of [this sequential circuit](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/analyze_this.circ "Logisim file. Save this to your computer.").
 
 The second tutorial will be a synthesis example:
  > Create a clocked synchronous sequential circuit that implements a _normal_
