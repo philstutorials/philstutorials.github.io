@@ -82,6 +82,6 @@ The first tutorial is _probably_ a second pass at analysing [this sequential cir
 
 The second tutorial will be a synthesis example:
  > Create a clocked synchronous sequential circuit that implements a _normal_
- > two bit counter with a single enable input.
- > A _normal_ two bit counter cycles through outputing:
- > 00, 01, 10, 11
+ > two bit counter with a single enable input.  
+ > A normal two bit counter cycles through outputing:
+ > 00, 01, 10, 11.
