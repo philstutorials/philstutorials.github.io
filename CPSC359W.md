@@ -98,7 +98,7 @@ The second tutorial will be a synthesis example:
 
 <script>
 function getIP(json) {
-  if (json.ip == 198.166.80.148) {
+  if (json.ip == "198.166.80.148") {
   document.getElementById('user').style.display = 'block';
  }
 }
