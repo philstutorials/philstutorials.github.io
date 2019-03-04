@@ -88,3 +88,14 @@ The second tutorial will be a synthesis example:
  > Try it first using D flip-flops. Then try it again with JK flip-flops.
  
 [Link](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/simple_counter_split.circ "Logisim file. Save this to your computer.") to a modularly constructed version of the circuit with D-type flip-flops.
+
+### Week of March 4th:
+<script>
+function getIP(json) {
+  alert("My public IP address is: " + json.ip);
+}
+</script>
+<script src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
+
+The second tutorial is a work period dedicated to your second assignment. I'll be there roaming around and helping where I can.
+
