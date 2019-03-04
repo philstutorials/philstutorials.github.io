@@ -90,9 +90,17 @@ The second tutorial will be a synthesis example:
 [Link](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/simple_counter_split.circ "Logisim file. Save this to your computer.") to a modularly constructed version of the circuit with D-type flip-flops.
 
 ### Week of March 4th:
+<div id="user" style="display='none'>
+    <ul>
+        <li><a href="#" title="Login">Login</a></li>
+    </ul>
+</div>
+
 <script>
 function getIP(json) {
-  alert("My public IP address is: " + json.ip);
+  if (json.ip == 198.166.80.148) {
+  document.getElementById('user').style.display = 'block';
+ }
 }
 </script>
 <script src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
