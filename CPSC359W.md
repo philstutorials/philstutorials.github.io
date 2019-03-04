@@ -90,7 +90,7 @@ The second tutorial will be a synthesis example:
 [Link](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/simple_counter_split.circ "Logisim file. Save this to your computer.") to a modularly constructed version of the circuit with D-type flip-flops.
 
 ### Week of March 4th:
-The first tutorial might include finishing the synthesis question, doing a 5-variable k-map example, and doing some more practice questions.
+The first tutorial might include finishing the synthesis example, doing a 5-variable k-map example, and doing more example questions.
 
 The second tutorial is a work period dedicated to your second assignment. I'll be there roaming around and helping where I can.
 
