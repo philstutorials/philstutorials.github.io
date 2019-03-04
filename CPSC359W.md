@@ -85,7 +85,7 @@ The second tutorial will be a synthesis example:
  > two bit counter with a single enable input.  
  > A normal two bit counter cycles through outputing:
  > 00, 01, 10, 11.  
- > Try it first using D flip-flops. Then try it again with JK flip-flops./^([a-z0-9]{5,})$/.test('abc12');
+ > Try it first using D flip-flops. Then try it again with JK flip-flops.
  
 [Link](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/simple_counter_split.circ "Logisim file. Save this to your computer.") to a modularly constructed version of the circuit with D-type flip-flops.
 
