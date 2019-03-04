@@ -92,7 +92,7 @@ The second tutorial will be a synthesis example:
 ### Week of March 4th:
 <div id="user" style="display:none">
     <ul>
-        <li><a href="#" title="Login">Login</a></li>
+        Questions:
     </ul>
 </div>
 
