@@ -77,7 +77,7 @@ This week we will flip-flop around logisim to build an understanding of memory p
 
 ----
 
-### Week of February 18th:
+### Week of February 18th:> Here's a [link](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/simple_counter_split.circ "Logisim file. Save this to your computer.") to my modularly constructed circuit connected to my fancy terminal.
 The first tutorial is concluding the analysis of [this sequential circuit](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/analyze_this.circ "Logisim file. Save this to your computer.").
 
 The second tutorial will be a synthesis example:
@@ -86,3 +86,5 @@ The second tutorial will be a synthesis example:
  > A normal two bit counter cycles through outputing:
  > 00, 01, 10, 11.  
  > Try it first using D flip-flops. Then try it again with JK flip-flops.
+ 
+[Link](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/simple_counter_split.circ "Logisim file. Save this to your computer.") to a modularly constructed circuit connected to my fancy terminal.
