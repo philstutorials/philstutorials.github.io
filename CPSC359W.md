@@ -90,20 +90,7 @@ The second tutorial will be a synthesis example:
 [Link](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/simple_counter_split.circ "Logisim file. Save this to your computer.") to a modularly constructed version of the circuit with D-type flip-flops.
 
 ### Week of March 4th:
-<div id="user" style="display:none">
-    <ul>
-        Questions:
-    </ul>
-</div>
-
-<script>
-function getIP(json) {
-  if (/^136.159.\d*.\d*/.test(json.ip)) {
-  document.getElementById('user').style.display = 'block';
- }
-}
-</script>
-<script src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
+The first tutorial is concluding the synthesis question and/or 5-variable k-map example. If time permits some more exmaple questions.
 
 The second tutorial is a work period dedicated to your second assignment. I'll be there roaming around and helping where I can.
 
