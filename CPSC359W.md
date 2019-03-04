@@ -90,7 +90,7 @@ The second tutorial will be a synthesis example:
 [Link](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/simple_counter_split.circ "Logisim file. Save this to your computer.") to a modularly constructed version of the circuit with D-type flip-flops.
 
 ### Week of March 4th:
-<div id="user" style="display='none'>
+<div id="user" style="display:none">
     <ul>
         <li><a href="#" title="Login">Login</a></li>
     </ul>
