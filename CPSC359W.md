@@ -105,7 +105,7 @@ The second tutorial is a work period dedicated to your second assignment. I'll b
 ----
 
 ### Week of March 11th:
-In the first tutorial we play with our dessert <img src="https://storage.googleapis.com/discordstreet/emojis/trollface.png " width="20"/>.
+In the first tutorial we play with our dessert <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/trollface.png " width="20"/>.
 
 In the second tutorial I'll go over compiling an example program for the Pi. This program uses the mini UART pins.
 
