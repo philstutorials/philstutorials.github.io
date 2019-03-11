@@ -13,6 +13,14 @@ Tutorials:
 
 ### Week of January 21st:
 This week we'll practice what you learned in last week's lectures. That means we will:
+----
+
+### October 30th and November 1st:
+On Tuesday we play with our dessert.
+
+On Thursday we will compile an example program for the Pi. This program uses the mini UART pins.
+
+> [Slides](https://slides.com/pathomas/cross-compilation#/)
 
 - Practice translating between three different representations of boolean expressions, i.e.,
  > logic (circuit) diagrams <--> algebraic expressions <--> truth tables.
@@ -93,4 +101,13 @@ The second tutorial will be a synthesis example:
 The first tutorial might include finishing the synthesis example, doing a 5-variable k-map example, and doing more example questions.
 
 The second tutorial is a work period dedicated to your second assignment. I'll be there roaming around and helping where I can.
+
+----
+
+### Week of March 11th:
+In the first tutorial we play with our dessert. ![][https://storage.googleapis.com/discordstreet/emojis/trollface.png]
+
+In the second tutorial I'll go over compiling an example program for the Pi. This program uses the mini UART pins.
+
+> [Slides](https://slides.com/pathomas/cross-compilation#/)
 
