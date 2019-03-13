@@ -18,10 +18,6 @@ This week we'll practice what you learned in last week's lectures. That means we
 ### October 30th and November 1st:
 On Tuesday we play with our dessert.
 
-On Thursday we will compile an example program for the Pi. This program uses the mini UART pins.
-
-> [Slides](https://slides.com/pathomas/cross-compilation#/)
-
 - Practice translating between three different representations of boolean expressions, i.e.,
  > logic (circuit) diagrams <--> algebraic expressions <--> truth tables.
 
