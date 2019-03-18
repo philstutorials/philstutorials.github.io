@@ -110,7 +110,7 @@ In the second tutorial I'll go over compiling an example program for the Pi. Thi
 
 ----
 
-### Week of March 11th:
+### Week of March 18th:
 The first tutorial is hands on; we're programming LED lights connected to our Pi.
 > [Slides](https://slides.com/pathomas/gpio-programming)
 
