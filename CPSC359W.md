@@ -93,6 +93,8 @@ The second tutorial will be a synthesis example:
  
 [Link](https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/simple_counter_split.circ "Logisim file. Save this to your computer.") to a modularly constructed version of the circuit with D-type flip-flops.
 
+----
+
 ### Week of March 4th:
 The first tutorial might include finishing the synthesis example, doing a 5-variable k-map example, and doing more example questions.
 
@@ -105,5 +107,13 @@ In the first tutorial we play with our dessert <img src="https://raw.githubuserc
 
 In the second tutorial I'll go over compiling an example program for the Pi. This program uses the mini UART pins.
 
-> [Slides](https://slides.com/pathomas/cross-compilation#/)
+> [Slides](https://slides.com/pathomas/cross-compilation)
 
+----
+
+### Week of March 11th:
+The first tutorial is hands on; we're programming LED lights connected to your Pi.
+> [Slides](https://slides.com/pathomas/gpio-programming)
+
+In the second tutorial we will build on what we did on Tuesday. We'll write a programs to make buttons control the LED lights.
+> [Slides](https://slides.com/pathomas/gpio-programming-button)
