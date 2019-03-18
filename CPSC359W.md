@@ -13,7 +13,6 @@ Tutorials:
 
 ### Week of January 21st:
 This week we'll practice what you learned in last week's lectures. That means we will:
-----
 
 ### October 30th and November 1st:
 On Tuesday we play with our dessert.
@@ -112,8 +111,8 @@ In the second tutorial I'll go over compiling an example program for the Pi. Thi
 ----
 
 ### Week of March 11th:
-The first tutorial is hands on; we're programming LED lights connected to your Pi.
+The first tutorial is hands on; we're programming LED lights connected to our Pi.
 > [Slides](https://slides.com/pathomas/gpio-programming)
 
-In the second tutorial we will build on what we did on Tuesday. We'll write a programs to make buttons control the LED lights.
+In the second tutorial we will build on what we did Tuesday. We'll write a program to make buttons control the LED lights.
 > [Slides](https://slides.com/pathomas/gpio-programming-button)
