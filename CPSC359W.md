@@ -116,3 +116,12 @@ The first tutorial is hands on; we're programming LED lights connected to our Pi
 
 In the second tutorial we will build on what we did Tuesday. We'll write a program to make buttons control the LED lights.
 > [Slides](https://slides.com/pathomas/gpio-programming-button)
+
+----
+
+### Week of March 25th:
+The first tutorial introduces the details of setting interrupts to be requested and serviced instantly.
+> [Slides](https://slides.com/pathomas/gpio-programming-interrupts)
+
+The second tutorial is a work period dedicated to your third assignment. I'll be there roaming around and helping where I can.
+
