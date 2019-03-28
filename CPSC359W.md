@@ -123,5 +123,5 @@ In the second tutorial we will build on what we did Tuesday. We'll write a progr
 The first tutorial introduces the details of setting interrupts to be requested and serviced instantly.
 > [Slides](https://slides.com/pathomas/gpio-programming-interrupts)
 
-The second tutorial is a work period dedicated to your third assignment. I'll be there roaming around and helping where I can.
+The second tutorial is a work period dedicated to your third assignment. I'll be there roaming around and helping where I can. If you're interested in getting the bonus part of the assignment look [here](https://www.valvers.com/open-software/raspberry-pi/step04-bare-metal-programming-in-c-pt4/).
 
