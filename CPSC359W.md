@@ -127,3 +127,10 @@ The second tutorial is a work period dedicated to your third assignment. I'll be
 
 If you're interested in getting the bonus part of the assignment look [here](https://www.valvers.com/open-software/raspberry-pi/step04-bare-metal-programming-in-c-pt4/). You're are suppose to have the system timer trigger interrupts at regular intervals and then have the function called by the interrupt switch the LEDs ;)
 
+----
+
+### Week of April Fools:
+The first tutorial will be entirely assignment demos. First come first, first serve. You can leave when you're done.
+
+The second tutorial is about Super Nintendo controller programming!
+<iframe src="https://giphy.com/embed/vPkvJ6zrHrp1C" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/haydiroket-victory-snes-vPkvJ6zrHrp1C">via GIPHY</a></p>
