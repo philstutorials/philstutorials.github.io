@@ -133,4 +133,5 @@ If you're interested in getting the bonus part of the assignment look [here](htt
 The first tutorial will be entirely assignment demos. First come first, first serve. You can leave when you're done.
 
 The second tutorial is about Super Nintendo controller programming!
-<iframe src="https://giphy.com/embed/vPkvJ6zrHrp1C" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/haydiroket-victory-snes-vPkvJ6zrHrp1C">via GIPHY</a></p>
+
+<img src="https://media.giphy.com/media/vPkvJ6zrHrp1C/giphy.gif " width="200"/>.
