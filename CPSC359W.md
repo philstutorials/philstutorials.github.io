@@ -135,3 +135,4 @@ The first tutorial will be entirely assignment demos. First come first, first se
 The second tutorial is about Super Nintendo controller programming!
 
 <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/snes.gif " width="200"/>
+> [Slides](https://slides.com/pathomas/gpio-programming-snes)
