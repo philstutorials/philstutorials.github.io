@@ -136,4 +136,4 @@ The second tutorial is about Super Nintendo controller programming!
 
 <img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/snes.gif " width="200"/>
 
-> [Slides](https://slides.com/pathomas/gpio-programming-snes)
+> [Slides](https://slides.com/pathomas/gpio-programming-snes) and [example w/ modifications](https://github.com/philstutorials/philstutorials.github.io/raw/master/_data/07_SNESController_Ext.zip)
