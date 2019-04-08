@@ -146,4 +146,4 @@ In the second tutorial you will finish your assignments. Discuss what to do abou
 
 ### THANKS FOR BEING GOOD STUDENTS
 ### GOOD LUCK ON FINALS FOLKS!
-<img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/good_luck.gif " width="200"/>
+<img src="https://raw.githubusercontent.com/philstutorials/philstutorials.github.io/master/_data/good_luck.gif " width="400"/>
