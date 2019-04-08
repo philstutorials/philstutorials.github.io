@@ -140,7 +140,7 @@ The second tutorial is about Super Nintendo controller programming!
 
 ### Week of April 8th:
 In the first tutorial we'll look at framebuffer programming.
-> [Slides](https://slides.com/pathomas/frame-buffers#/) and [example w/ animation mod](https://github.com/philstutorials/philstutorials.github.io/raw/master/_data/09_Buff_Snake.zip)
+> [Slides](https://slides.com/pathomas/frame-buffers#/) and [example w/ animation mod](https://github.com/philstutorials/philstutorials.github.io/raw/master/_data/09_buff_snake_mod.zip)
 
 In the second tutorial you will succeed in finishing your final assignment. Also, someone remind me to discuss what to do about assignment demos.
 
