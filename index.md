@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Contact Me
-Email me at [pathomas@ucalgary.ca](mailto:pathomas@ucalgay.ca?subject=COURSE%20###:%20[subject-of-your-question/concern-here]).
+Email me at [pathomas@ucalgary.ca](mailto:phil@blackbody.studio?subject=COURSE%20###:%20[subject-of-your-question/concern-here]).
 
 Please use `COURSE ###: [subject of your question/concern here]` as a template of the subject line for these course related emails.
 
