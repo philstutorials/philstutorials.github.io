@@ -14,9 +14,6 @@ Tutorials:
 ### Week of January 21st:
 This week we'll practice what you learned in last week's lectures. That means we will:
 
-### October 30th and November 1st:
-On Tuesday we play with our dessert.
-
 - Practice translating between three different representations of boolean expressions, i.e.,
  > logic (circuit) diagrams <--> algebraic expressions <--> truth tables.
 
